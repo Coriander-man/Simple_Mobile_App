@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/logo_big"></ImageView>
+
+        <TextView
+            android:id="@+id/tvShopNameEng"
+            style="@style/text_style_eng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView1"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_marginTop="15dp"
+            android:text="@string/shop_name_eng"></TextView>
+
+        <TextView
+            android:id="@+id/tvShopNameChi"
+            style="@style/text_style_chi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvShopNameEng"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:text="@string/shop_name_chi"></TextView>
+
+    </RelativeLayout>
+
+</LinearLayout>

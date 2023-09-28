@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello World, MarketingJarActivity!</string>
+    <string name="app_name">FevaMobile</string>
+    <string name="shop_name_chi">花花電訊</string>
+    <string name="shop_name_eng">Feva Mobile</string>
+    <string name="tab5_text">聯絡我們</string>
+    <string name="tab4_text">店鋪地址</string>
+    <string name="tab3_text">產品介紹</string>
+    <string name="tab2_text">推介優惠</string>
+    <string name="tab1_text">Home</string>
+    <string name="contact_phone">(852) 2688 1234</string>    
+    <string name="contact_call_phone">26881234</string>
+    <string name="contact_email">contact@fevaflower.com</string>
+    <string name="contact_email_subject">My subject</string>
+    <string name="contact_email_body">The email body text</string>    
+    <string name="contact_address">香港九龍太子道西88號\n好發大廈地下B舖</string>
+    
+    <string name="btn_dial_text">即時致電</string>
+    <string name="btn_email_text">電郵聯絡</string>
+    <string name="menu_tko">將軍澳店</string>
+    <string name="menu_mk">旺角店</string>
+    <string name="menu_tst">尖沙咀店</string>
+    <string name="title_news">最新優惠及消息</string>
+    <string name="title_shops">分店地址</string>
+    <string name="title_contact">聯絡我們</string>
+    <string name="title_products">產品介紹</string>
+    <string name="no_data">沒有內容</string>
+</resources>

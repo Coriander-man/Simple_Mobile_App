@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/darkgray"
+        android:gravity="center_horizontal"
+        android:paddingBottom="3dip"
+        android:text="@string/title_shops"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/top_title_color" >
+    </TextView>
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+</LinearLayout>

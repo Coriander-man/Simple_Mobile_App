@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <drawable name="darkgray">#80666666</drawable>
+  <drawable name="white">#FFFFFFFF</drawable>
+  <drawable name="transparent_background">#a0000000</drawable>
+  <color name="news_list_bgcolor">#336666</color>
+  <color name="news_list_title">#FFEFEFEF</color>
+  <color name="news_list_date">#FFCCCCCC</color>
+  <color name="new_list_header_bg">#808080FF</color>
+  <color name="products_list_title">#FFEFEFEF</color>
+  <color name="products_list_bgcolor">#ffffff</color>
+  <color name="top_title_color">#FFFFFF</color>
+  <color name="contact_text_color">#FFFFFF</color>
+</resources>
